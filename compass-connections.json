@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "2b23f9a1-2708-4ae4-b76a-3495560fc37d",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1755951982020"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.smbpnon.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://rushi087shah:JMMVw58pLMaD3S0H@cluster0.smbpnon.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
