@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367071500267",
+    "project_id": "smartserve-57c5e",
+    "storage_bucket": "smartserve-57c5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367071500267:android:2208e1c8b3dd49a7afabae",
+        "android_client_info": {
+          "package_name": "com.easy.easybook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MUb46tlJJ_IqAO4gA0MS2u64DUkOQug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
